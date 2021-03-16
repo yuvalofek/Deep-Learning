@@ -11,7 +11,7 @@ communication theory.
 # Submissions
 Four Assignments - respective folder contains assignment and submission \
 Midterm Project - reimplement an existing research paper \
-Final Project - improve on existing research 
+Final Project - improve on existing research - see https://github.com/yuvalofek/DefensiveLayer
 
 # Weekly Reading/Discussion based on the following papers:
 ### Week 1:
